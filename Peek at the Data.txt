@@ -1,0 +1,3 @@
+It is also always a good idea to actually eyeball your data.
+# head
+print(dataset.head(20))

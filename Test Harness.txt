@@ -1,0 +1,14 @@
+We will use 10-fold cross validation to estimate accuracy.
+
+This will split our dataset into 10 parts, train on 9 and test on 1 and repeat for all combinations of train-test splits.
+
+# Test options and evaluation metric
+seed = 7
+scoring = 'accuracy'
+1
+2
+3
+# Test options and evaluation metric
+seed = 7
+scoring = 'accuracy'
+We are using the metric of ‘accuracy‘ to evaluate models. This is a ratio of the number of correctly predicted instances in divided by the total number of instances in the dataset multiplied by 100 to give a percentage (e.g. 95% accurate). We will be using the 
