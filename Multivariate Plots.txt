@@ -1,0 +1,9 @@
+Now we can look at the interactions between the variables.
+
+First, let’s look at scatterplots of all pairs of attributes. This can be helpful to spot structured relationships between input variables.
+
+# scatter plot matrix
+scatter_matrix(dataset)
+plt.show()
+
+Note the diagonal grouping of some pairs of attributes. This suggests a high correlation and a predictable relationship.

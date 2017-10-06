@@ -1,0 +1,6 @@
+We now have a basic idea about the data. We need to extend that with some visualizations.
+
+We are going to look at two types of plots:
+
+Univariate plots to better understand each attribute.
+Multivariate plots to better understand the relationships between attributes.
