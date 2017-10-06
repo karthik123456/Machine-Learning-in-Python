@@ -1,0 +1,6 @@
+In this step we have to look at the data in a few different ways
+
+Dimensions of the dataset
+Peek at the data itself
+Statistical summary of all attributes
+Breakdown of the data by the class variable

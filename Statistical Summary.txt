@@ -1,0 +1,6 @@
+Now we can take a look at a summary of each attribute.
+
+This includes the count, mean, the min and max values as well as some percentiles.
+
+# descriptions
+print(dataset.describe())

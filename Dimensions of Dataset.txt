@@ -1,0 +1,3 @@
+We can get a quick idea of how many instances(rows) and how many attributes(columns) the data contains with the shape property.
+# shape
+print(dataset.shape)
