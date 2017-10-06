@@ -1,0 +1,18 @@
+This tutorial assumes Python version 2.7 or 3.5.
+
+There are 5 key libraries that you will need to install. Below is a list of the Python SciPy libraries required for this tutorial:
+
+scipy
+numpy
+matplotlib
+pandas
+sklearn
+There are many ways to install these libraries. My best advice is to pick one method then be consistent in installing each library.
+
+The scipy installation page provides excellent instructions for installing the above libraries on multiple different platforms, such as Linux, mac OS X and Windows. If you have any doubts or questions, refer to this guide, it has been followed by thousands of people.
+
+On Mac OS X, you can use macports to install Python 2.7 and these libraries. For more information on macports, see the homepage.
+On Linux you can use your package manager, such as yum on Fedora to install RPMs.
+If you are on Windows or you are not confident, I would recommend installing the free version of Anaconda that includes everything you need.
+
+Note: This tutorial assumes you have scikit-learn version 0.18 or higher installed.
