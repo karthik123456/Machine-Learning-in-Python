@@ -1,3 +1,0 @@
-Let’s now take a look at the number of instances (rows) that belong to each class. We can view this as an absolute count.
-# class distribution
-print(dataset.groupby('class').size())
