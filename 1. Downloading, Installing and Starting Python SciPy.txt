@@ -1,0 +1,1 @@
+Get the Python and SciPy platform installed on your system if it is not already.
