@@ -1,4 +1,4 @@
-First, let’s import all of the modules, functions and objects we are going to use in this tutorial.
+First, letâ€™s import all of the modules, functions and objects we are going to use in this tutorial.
 
 # Load libraries
 import pandas
