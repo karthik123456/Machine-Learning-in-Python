@@ -11,4 +11,4 @@ scoring = 'accuracy'
 # Test options and evaluation metric
 seed = 7
 scoring = 'accuracy'
-We are using the metric of ‘accuracy‘ to evaluate models. This is a ratio of the number of correctly predicted instances in divided by the total number of instances in the dataset multiplied by 100 to give a percentage (e.g. 95% accurate). We will be using the 
+We are using the metric of â€˜accuracyâ€˜ to evaluate models. This is a ratio of the number of correctly predicted instances in divided by the total number of instances in the dataset multiplied by 100 to give a percentage (e.g. 95% accurate). We will be using the 
