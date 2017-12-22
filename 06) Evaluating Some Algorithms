@@ -1,4 +1,4 @@
-Now it is time to create some models of the data and estimate their accuracy on unseen data.\
+Now it is time to create some models of the data and estimate their accuracy on unseen data.
 
 Here is what we are going to cover in this step:
 Separate out a validation dataset.
