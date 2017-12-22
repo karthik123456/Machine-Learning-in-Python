@@ -3,5 +3,5 @@ Now it is time to create some models of the data and estimate their accuracy on 
 Here is what we are going to cover in this step:
 Separate out a validation dataset.
 Set-up the test harness to use 10-fold cross validation.
-Build 5 different models to predict species from flower measurements
+Build 5 different models to predict species from flower measurements.
 Select the best model.
